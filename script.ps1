@@ -27,7 +27,7 @@ function Send-Message {
     }
     
     process {
-        
+        Write-Host $Message
     }
     
     end {
