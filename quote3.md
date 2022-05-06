@@ -1,0 +1,1 @@
+Life's blueprint does not always matches to our life's condition. -Charles :)
